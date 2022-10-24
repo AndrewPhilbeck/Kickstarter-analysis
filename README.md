@@ -12,7 +12,7 @@ A play, titled _Fever_ recently fell short of its Kickstarter goal. The author o
 
 The first analysis based on launch date concluded that the two most successful months to launch on Kickstarter are May and June. The months which provided the most failed launches were January, May, June, and October. Seeing this I limited the data to only plays, since this was the category of kickstarter, _Fever_, which nearly reached its goal. Upon doing this the data revealed similar results. The most successful months for launching a kickstarter campaign for plays were May and June. With these months seeming to spike in their success rate with 111 successful campaigns launched in May and 100 in June. The number of failed kickstarters for plays stayed between thirty and fifty over the course of twelve months, with one exception of fifty-two in May.
 
-Here is the correspoing graph which reveals the information based on plays launched on Kickstarter over a twelve month period.(![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/115502048/197422842-63737ced-a487-4824-b99c-31be67daebf0.png)
+Here is the correspoing graph which reveals the information based on plays launched on Kickstarter over a twelve month period.![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/115502048/197422842-63737ced-a487-4824-b99c-31be67daebf0.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -28,3 +28,10 @@ Understanding the language as well as the specifics of the formulas in excel is 
 
 ## Results
 
+Conclusions based on launch date are that the best month to launch a kickstarter for a play is May and the worst month to launch a kickstarter for a play is December. It is possible that had _Fever_ been launched in May rather than June it would have had enough funding to be a success. 
+
+Conclusions based on goals are that the success rate of kickstarters for plays begins at 76% for those with goals under $1,000 and slowly trends down as the goal increases. The simpliest and most obvious conclusion is that monitary goals which are the smallest are the most successful.
+
+One limitation of this dataset is it tells us nothing about how this kickstarter was marketed. Hype and word of mouth are crucial to the success of a kickstarter, while these things are not completely intangible, they were at the very least missing from this dataset. While the dataset tells us this play was launched in the US it does not give us a specific location. Is this a production taking place in New York City or Luckenbach, Texas? Perhaps this played a part in the lack of funding recieved. It also doesn't answer the question of why this kickstarter failed. It was launched at a successful time of the year and with a goal that seemed atainable. Yet these two factors, launch date and goal, are not enough to tell us why this production failed.
+
+Other tables and/or graphs that could be created to help shine light on why this kickstarter failed might be the number of backers relative to each successfully funded kickstarter. We could also produce data that took into account if a kickstarter was a _staff pick_ or _spotlight_ with _Fever_ receiving neither of these things. 
